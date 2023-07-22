@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sarthak Shah</h1>
+<h1 align="center">Hi👋, I'm Sarthak Shah</h1>
 
 ![Colorful Watercolor Twitter Header (3)](https://github.com/Not-Sarthak/Not-Sarthak/assets/92942966/ce7b428a-8edd-43fd-b654-aa78bfb91150)
 <br>
