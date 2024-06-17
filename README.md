@@ -3,7 +3,6 @@
 ![Colorful Watercolor Twitter Header (3)](https://github.com/Not-Sarthak/Not-Sarthak/assets/92942966/ce7b428a-8edd-43fd-b654-aa78bfb91150)
 <br>
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Not-Sarthak&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Not-Sarthak&theme=dark&hide_border=false)<br/>
 <br/>
 ## 🌐 Socials:
